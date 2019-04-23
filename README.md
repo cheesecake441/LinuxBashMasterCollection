@@ -1,5 +1,5 @@
 # Linux Bash Master Collection
-##**Because if you have to type it more than twice a day, its probably worth automating**
+##*Because if you have to type it more than twice a day, its probably worth automating*
 
 ##tl;dr
 Simply copy and paste this command to install the collection
