@@ -16,12 +16,15 @@ Again, simply copy and paste this command:
 `curl http://tpalmer.info/applications/scripts/installer.sh | sh`
 
 ### Requirements
+
 `sudo apt-get install dig`
 
 ### Easy Installation
+
 `curl http://tpalmer.info/applications/scripts/installer.sh | sh`
 
 ### Advanced Installation
+
 ```
 mkdir ~/Scripts
 cd ~/Scripts
@@ -35,5 +38,6 @@ sudo ~/Scripts/symlink.sh
 This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or any later version.
 
 ## Acknowledgments
+
 @JesusChrist
 
